@@ -25,5 +25,5 @@ curl -d '{
    }
 }'\
      -H "Content-Type: application/json" \
-     -X POST https://udacity-training-flask-ml-service.azurewebsites.net:$PORT/predict 
-     # TODO: Replace the <yourappname> with your application name 
+     -X POST https://udactiy-training-flask-ml-service.azurewebsites.net:$PORT/predict
+     # TODO: Replace the <yourappname> with your application name
